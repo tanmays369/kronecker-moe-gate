@@ -1,0 +1,5 @@
+data/*.txt
+runs/
+__pycache__/
+*.pt
+*.parquet
